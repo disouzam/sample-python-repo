@@ -1,2 +1,4 @@
 # sample-python-repo
 A sample repo with some crafted scripts that create environment and manipulate pip to install all required dependencies using bash scripts
+
+The idea here was to have some scripts to automate the complete setup process, since virtual environment creation up to dependencies installation using pip without having to deal with all commands manually. This process might be discarded as I gain more knowledge in Python ecossystem: I have heard about Poetry recently and also the use of makefiles and those two tools might make these scripts here outdated and not necessary. But, while I don't stop to learn all of that, these scripts are serving me well to my current purposes and needs.

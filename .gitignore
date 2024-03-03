@@ -161,3 +161,6 @@ cython_debug/
 
 # Extra text files
 *.txt
+
+# Auto-generated HTML files from markdown equivalents
+README.html
